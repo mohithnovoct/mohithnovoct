@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohith
 - 👀 I’m interested in Artificial intelligence and machine learning 
-- 🌱 I’m currently learning deep learning 
+- 🌱 I’m currently learning mathematics for machine learning 
 - 💞️ I’m looking to collaborate on ...any projects
 - 📫 How to reach me instagram (@mohith_novoct25)
 - gmail (mohithbutta20004@gmail.com)
