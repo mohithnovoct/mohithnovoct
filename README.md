@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Mohith. I'm a self taught programmer in python and an Machine Learning Enthusiast.😉<br><br>Currently learn ML and Mathematics.<br>Open for collaboration on projects
+Hi! I'm Mohith. I'm a self taught programmer in python and an Machine Learning Enthusiast.😉<br><br>Currently learning ML and Mathematics.<br>Open for collaboration on projects
 
 
 ## 🌐 Socials:
