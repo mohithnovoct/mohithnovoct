@@ -16,6 +16,6 @@ Hi! I'm Mohith. I'm a self taught programmer in python and an Machine Learning E
 ![](https://github-contributor-stats.vercel.app/api?username=mohithnovoct&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohithnovoct&icon=6&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
