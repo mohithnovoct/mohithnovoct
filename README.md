@@ -25,6 +25,7 @@ Constantly learning, experimenting, and pushing toward industry-ready AI systems
 ### Badges
 
 <b>My GitHub Stats</b>
+[![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohithnovoct)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/mohithnovoct"><img src="https://github-readme-stats.vercel.app/api?username=mohithnovoct&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohithnovoct's GitHub stats" /></a>
 
