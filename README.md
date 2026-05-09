@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║           mohith@github: ~ zsh                       ║
-╚══════════════════════════════════════════════════════╝
+                                      ╔══════════════════════════════════════════════════════╗
+                                      ║           mohith@github: ~ zsh                       ║
+                                      ╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -68,17 +68,14 @@ mohith@github:~$ cat github_stats.sh | bash
 
 <div align="center">
 
-<a href="http://www.github.com/mohithnovoct">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithnovoct&show_icons=true&count_private=true&title_color=1D9E75&text_color=B4B2A9&icon_color=1D9E75&bg_color=1c1917&hide_border=true" alt="Mohith's GitHub stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mohithnovoct&show_icons=true&count_private=true&title_color=1D9E75&text_color=B4B2A9&icon_color=1D9E75&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="Mohith's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithnovoct&langs_count=8&title_color=1D9E75&text_color=B4B2A9&icon_color=1D9E75&bg_color=1c1917&hide_border=true&layout=compact&custom_title=top%20languages&cache_seconds=1800" alt="Top Languages" height="165" />
 
-<a href="http://www.github.com/mohithnovoct">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithnovoct&stroke=1D9E75&background=1c1917&ring=1D9E75&fire=EF9F27&currStreakNum=ffffff&currStreakLabel=1D9E75&sideNums=B4B2A9&sideLabels=B4B2A9&dates=5F5E5A&hide_border=true" />
-</a>
+</div>
 
-<a href="https://github.com/mohithnovoct">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithnovoct&langs_count=8&title_color=1D9E75&text_color=B4B2A9&icon_color=1D9E75&bg_color=1c1917&hide_border=true&layout=compact&custom_title=top%20languages" alt="Top Languages" />
-</a>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohithnovoct&stroke=1D9E75&background=1c1917&ring=1D9E75&fire=EF9F27&currStreakNum=ffffff&currStreakLabel=1D9E75&sideNums=B4B2A9&sideLabels=B4B2A9&dates=5F5E5A&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
