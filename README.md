@@ -26,9 +26,6 @@ mohith@github:~$ cat about.txt
 
 ```
 name        : Mohith Butta
-role        : CS Student | AI/ML Engineer
-location    : Bengaluru, India
-education   : B.E. Computer Science & Engineering — Dayananda Sagar University (3rd Year)
 status      : open to collaborate · actively building
 portfolio   : mohithnovoct.github.io
 ```
@@ -40,36 +37,11 @@ portfolio   : mohithnovoct.github.io
 ---
 
 ```bash
-mohith@github:~$ ls projects/
-```
-
-```
-01  mental-health-classifier/     NLP · DistilBERT · FastAPI · Gradio
-02  data-cleaning-env/            Reinforcement Learning · OpenAI Gym · FastAPI · HF Spaces
-03  portfolio-website/            WebGL · Three.js · Cinematic dark UI
-```
-
-**[01] Mental Health Text Classifier**
-Fine-tuned DistilBERT on Reddit data to classify mental health-related text across multiple categories. Achieved ~95% validation accuracy and 83% test accuracy. Deployed with a FastAPI + Gradio interface.
-`Python` `HuggingFace` `DistilBERT` `FastAPI` `Gradio`
-
-**[02] Data Cleaning RL Environment**
-Custom OpenAI Gym-compatible environment for training RL agents on structured data cleaning tasks. Built for a Scaler hackathon and deployed on Hugging Face Spaces.
-`Python` `Gymnasium` `FastAPI` `Gradio` `HuggingFace Spaces`
-
-**[03] Personal Portfolio**
-Cinematic dark-aesthetic portfolio site with WebGL particle fields and neural-network connection lines, inspired by xAI/SpaceX visual styles.
-`HTML` `CSS` `JavaScript` `Three.js` `WebGL`
-
-> Browse all work → **[github.com/mohithnovoct](https://github.com/mohithnovoct?tab=repositories)** · **[mohithnovoct.github.io](http://mohithnovoct.github.io)**
-
----
-
-```bash
 mohith@github:~$ ls skills/
 ```
 
-<p>
+<div align="center">
+
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>&nbsp;
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" /></a>&nbsp;
 <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" /></a>&nbsp;
@@ -84,21 +56,8 @@ mohith@github:~$ ls skills/
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" title="Bash" /></a>&nbsp;
 <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" title="Neovim" /></a>&nbsp;
 <a href="https://render.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render" /></a>
-</p>
 
----
-
-```bash
-mohith@github:~$ echo $RESEARCH_INTERESTS
-```
-
-```
-LLMs & NLP       →  language models · fine-tuning · RAG pipelines
-Computer Vision  →  image recognition · vision-language models
-Deep Learning    →  neural architectures · training dynamics
-MLOps            →  model deployment · scalable inference
-Generative AI    →  diffusion models · multimodal AI · agents
-```
+</div>
 
 ---
 
@@ -140,7 +99,8 @@ mohith@github:~$ cat github_stats.sh | bash
 mohith@github:~$ cat socials.txt
 ```
 
-<p>
+<div align="center">
+
 <a href="https://www.github.com/mohithnovoct" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -162,7 +122,8 @@ mohith@github:~$ cat socials.txt
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X / Twitter" title="X / Twitter" />
   </picture>
 </a>
-</p>
+
+</div>
 
 ---
 
